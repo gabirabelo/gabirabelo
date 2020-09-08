@@ -14,4 +14,5 @@ const skills = {
 ```
 
 Stats on Github:
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabirabelo&show_icons=true&theme=radical)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabirabelo&show_icons=true&theme=solarized-light)
