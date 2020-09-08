@@ -1,14 +1,17 @@
+<img align='right' src="https://cdn.dribbble.com/users/933737/screenshots/5847331/me50fps.gif" width="300">
+
 ### Hi, I'm Gabi  👋
+[![](https://img.shields.io/badge/LinkedIn-gabirabelo-blue)](https://www.linkedin.com/in/gabriela-rabelo/)
+[![](https://img.shields.io/badge/Gmail-gabirrabelo%40gmail.com-red)](mailto:gabirrabelo@gmail.com)
 
-Stats on Github:
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabirabelo&show_icons=true&theme=radical)
 
 Languages and Tools:
+```javascript
+const skills = {
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, ReactNative, Node, Storybook, Styled-Components],
+}
+```
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+Stats on Github:
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabirabelo&show_icons=true&theme=radical)
